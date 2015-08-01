@@ -7,8 +7,8 @@
   },
   "files": [
     "index.ts",
-    "config.ts",
     "gulpfile.ts",
+    "argv.ts",
     "typings/tsd.d.ts"
   ]
 }

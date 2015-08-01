@@ -25,6 +25,18 @@
     },
     "yargs/yargs.d.ts": {
       "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
+    },
+    "rx/rx.d.ts": {
+      "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
+    },
+    "rx/rx-lite.d.ts": {
+      "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
     }
   }
 }
