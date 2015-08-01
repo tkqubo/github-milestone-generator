@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "noImplicitAny": true
+  },
+  "files": [
+    "index.ts",
+    "config.ts",
+    "gulpfile.ts",
+    "typings/tsd.d.ts"
+  ]
+}

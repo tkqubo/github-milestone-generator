@@ -1,0 +1,33 @@
+{
+  "name": "github-milestone-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "envify": "^3.4.0",
+    "node-github": "^0.0.3"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "envify": "^3.4.0",
+    "gulp": "^3.9.0",
+    "node-github": "0.0.3",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "scripts": {
+    "start": "npm install && tsd reinstall && gulp browserify && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkQubo/github-milestone-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkQubo/github-milestone-generator/issues"
+  },
+  "homepage": "https://github.com/tkQubo/github-milestone-generator#readme"
+}
