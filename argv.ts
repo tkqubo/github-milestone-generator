@@ -52,7 +52,6 @@ let argv: GmgArgv = require('yargs')
         .describe('y', `Dry-run mode, where no milestone is actually posted to github (default is ${DEFAULT_DRY_RUN})`)
         .describe('v', `Debug mode with detailed log information (default is ${DEFAULT_VERBOSE})`)
         .describe('g', `Github token (you can use env variable GMG_GITHUB_TOKEN instead)`)
-        .epilog('copyright 2015')
         .argv
     ;
 
