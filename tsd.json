@@ -16,6 +16,15 @@
     },
     "vinyl-source-stream/vinyl-source-stream.d.ts": {
       "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
+    },
+    "moment/moment.d.ts": {
+      "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
+    },
+    "moment/moment-node.d.ts": {
+      "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
+    },
+    "yargs/yargs.d.ts": {
+      "commit": "4df20c9706ce6ca27137617770b57f3a0d3f9689"
     }
   }
 }

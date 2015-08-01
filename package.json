@@ -13,11 +13,14 @@
     "browserify": "^11.0.1",
     "envify": "^3.4.0",
     "gulp": "^3.9.0",
+    "moment": "^2.10.6",
     "node-github": "0.0.3",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^1.1.0",
+    "yargs": "^3.16.1"
   },
   "scripts": {
-    "start": "npm install && tsd reinstall && gulp browserify && node index.js",
+    "build": "npm install && tsd reinstall && gulp browserify",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
